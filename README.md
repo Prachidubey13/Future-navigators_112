@@ -29,6 +29,7 @@ This project implements automated testing for the SauceDemo e-commerce platform 
 
 ## Project Structure
 bash
+```
 src/
  ├── main/
  │   ├── java/
@@ -48,7 +49,7 @@ src/
  ├── config.properties                   # Configuration properties file
  ├── extent.html                         # Extent Report
  ├── pom.xml                             # Maven dependencies and build file
-
+```
 
 ## Setup and Running Tests
 
